@@ -1,5 +1,10 @@
 # 💫 About Me, I'm Mohd Harish:
-I'm a first year B.Tech CSE Student at Galgotias University. I'm an aspiring software engineer<br>and Trying to learn Open Source Contribution <br> and trying to building cool new softwares everday
+👋 Hi there! I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
+
+🚀 Aspiring Software Engineer passionate about building cool and useful software projects.<br>
+
+💻 Currently exploring Open Source Contribution and sharpening my skills in software development one project at a time.<br>
+
 
 
 ## 🌐 Socials:
