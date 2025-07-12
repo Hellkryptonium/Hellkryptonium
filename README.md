@@ -7,6 +7,10 @@
 💻 Currently exploring Open Source Contribution and sharpening my skills in software development one project at a time.<br>
 
 
+<p align="center">
+  <img src="metrics_renders/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar"/>
+</p>
+
 
 ## 🌐 Socials:
 
@@ -36,4 +40,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hellkryptonium&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
