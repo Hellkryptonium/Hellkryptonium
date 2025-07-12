@@ -1,3 +1,4 @@
+![Welcome Banner](public/assets/image/Banner.jpeg)
 # 💫 About Me, I'm Mohd Harish:
 👋 Hi there! I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
 
