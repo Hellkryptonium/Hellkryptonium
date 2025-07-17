@@ -1,0 +1,11 @@
+name: LeetCode Stats
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.leetcode.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_leetcode: yes
+  plugin_leetcode_user: your-leetcode-username
+  plugin_leetcode_sections: solved, skills, recent
+  plugin_leetcode_limit_skills: 5
+  plugin_leetcode_limit_recent: 3
