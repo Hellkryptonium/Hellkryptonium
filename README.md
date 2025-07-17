@@ -7,21 +7,10 @@
 💻 Currently exploring Open Source Contribution and sharpening my skills in software development one project at a time.<br>
 
 <p align="center">
-  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="200"/>
+  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="400"/>
+  &nbsp;&nbsp;
+  <img src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="400"/>
 </p>
-
-
-<p align="center">
-  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar"/>
-</p>
-
-<p align="center">
-  <img src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics">
-</p>
-
-
 
 ## 🌐 Socials:
 
