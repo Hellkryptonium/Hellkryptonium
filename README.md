@@ -1,10 +1,13 @@
 ![Welcome Banner](public/assets/image/Banner.jpeg)
 # 💫 About Me, I'm Mohd Harish:
-👋 Hi there! I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
+👋 Hey there!<br>
+I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
 
-🚀 Aspiring Software Engineer passionate about building cool and useful software projects.<br>
+🚀 I'm an aspiring Software Engineer with a passion for building impactful and innovative software projects.<br>
 
-💻 Currently exploring Open Source Contribution and sharpening my skills in software development one project at a time.<br>
+💻 Currently diving into Open Source contributions and continuously honing my development skills — one project at a time.<br>
+
+
 
 <p align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="400"/>
