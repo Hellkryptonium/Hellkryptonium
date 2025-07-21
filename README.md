@@ -43,3 +43,6 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Hellkryptonium&icon=2&color=0)](https://visitcount.itsvg.in)
 
+![Recent Spotify Tracks](metrics.plugin.music.svg)
+
+
