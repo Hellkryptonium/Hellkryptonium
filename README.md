@@ -45,4 +45,6 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
 
 ![Recent Spotify Tracks](metrics.plugin.music.svg)
 
+### ⏰ My WakaTime stats
+![WakaTime Stats](metrics.plugin.wakatime.svg)
 
