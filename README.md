@@ -41,7 +41,7 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.<br>
 ![](https://github-contributor-stats.vercel.app/api?username=Hellkryptonium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=hellkryptonium&color=green&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
+![Visitors](https://komarev.com/ghpvc/?username=hellkryptonium&label=Visitors&color=0e75b6&style=for-the-badge)
 
 ![Recent Spotify Tracks](metrics.plugin.music.svg)
 
