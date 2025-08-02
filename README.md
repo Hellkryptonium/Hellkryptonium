@@ -10,8 +10,6 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.
 💻 Currently diving into Open Source contributions and continuously honing my development skills — one project at a time.
 <br>
 
-
-
 <p align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="400"/>
   &nbsp;&nbsp;
@@ -23,7 +21,6 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.
 <a href="https://www.mohdharish.xyz">
   <img src="https://github.com/Hellkryptonium/MohdHarishPortfolio/raw/main/public/assets/images/fav-icon.png" alt="Portfolio" width="100" height="100" style="vertical-align:middle;"><h5>My Portfolio Webiste</h5></img>
 </a>  
-
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.harish.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harish999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-harish-126a58256) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/HellKrypton) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarishJ04335767) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishjs1006@gmail.com) 
 
