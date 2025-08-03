@@ -43,8 +43,6 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=hellkryptonium&label=Visitors&color=0e75b6&style=for-the-badge)
 
-![Recent Spotify Tracks](metrics.plugin.music.svg)
-
 ### ⏰ My WakaTime stats
 ![WakaTime Stats](metrics.plugin.wakatime.svg)
 
