@@ -18,4 +18,4 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_limit: 7
           plugin_music_mode: combined  # enables recent + top + playlist
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/5jztzUoNUeVL94praSyfn3  # optional
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1EIeGlWlhIHJPO  # optional
