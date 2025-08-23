@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.00902625820569 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">89</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.189004376367615 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">91</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3656</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="13.677528089887641 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">37</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.416853932584269 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">39</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/890</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x51</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x28</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x25</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x24</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x52</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x29</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x26</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x25</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x15</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x9</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x9</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x8</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x7</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x7</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -82,6 +82,33 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Reverse Vowels of a String</div>
+                            <div class="date">22 Aug 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Contains Duplicate II</div>
+                            <div class="date">22 Aug 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Copy List with Random Pointer</div>
+                            <div class="date">22 Aug 2025</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -98,33 +125,6 @@
                         <div class="infos">
                             <div class="title">Can Place Flowers</div>
                             <div class="date">21 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Happy Number</div>
-                            <div class="date">21 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Kids With the Greatest Number of Candies</div>
-                            <div class="date">20 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Two Sum</div>
-                            <div class="date">20 Aug 2025</div>
                         </div>
                     </div>
                 </section>
