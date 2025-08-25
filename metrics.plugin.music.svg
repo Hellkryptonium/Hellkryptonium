@@ -25,15 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Arriadin por Tu</div>
-                                    <div class="artist">João Gomes, Mestrinho, Jota.pê</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Dias De Luta, Dias De Gloria</div>
-                                    <div class="artist">Charlie Brown Jr.</div>
+                                    <div class="name">Sparks</div>
+                                    <div class="artist">Coldplay</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -46,29 +39,36 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pode Se Achegar</div>
-                                    <div class="artist">TIAGO IORC, Agnes Nunes, Bagua Records</div>
+                                    <div class="name">Outra Vida</div>
+                                    <div class="artist">Armandinho</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Eternity</div>
-                                    <div class="artist">Alex Warren</div>
+                                    <div class="name">Aonde Quer Que Eu Vá</div>
+                                    <div class="artist">Os Paralamas Do Sucesso</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Quase uma Semana</div>
-                                    <div class="artist">BIN, Borges, L7NNON, Ajaxx</div>
+                                    <div class="name">Van Cleef</div>
+                                    <div class="artist">EOrochi, Filipe Ret, Portugal No Beat</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Não Olha Assim Pra Mim</div>
-                                    <div class="artist">OUTROEU</div>
+                                    <div class="name">Será</div>
+                                    <div class="artist">Lagum, IZA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Don't Stop Believin'</div>
+                                    <div class="artist">Teddy Swims</div>
                                 </div>
                             </div>
                         </div>
