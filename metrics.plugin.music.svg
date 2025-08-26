@@ -25,22 +25,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Iris</div>
-                                    <div class="artist">The Goo Goo Dolls</div>
+                                    <div class="name">O Vagabundo e a Dama</div>
+                                    <div class="artist">Oriente</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ninguém</div>
-                                    <div class="artist">Fran, Chico Chico</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bem Melhor</div>
-                                    <div class="artist">Lagum</div>
+                                    <div class="name">Devagarinho</div>
+                                    <div class="artist">Gilsons, Mariana Volker</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -53,22 +46,29 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Gravity</div>
-                                    <div class="artist">John Mayer</div>
+                                    <div class="name">Marília Mendonça</div>
+                                    <div class="artist">BIN, Mainstreet, Mãolee</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Meu Abrigo</div>
-                                    <div class="artist">Melim</div>
+                                    <div class="name">Me Espera</div>
+                                    <div class="artist">Sandy, TIAGO IORC</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Seja Para Mim - Acústico</div>
-                                    <div class="artist">Maneva</div>
+                                    <div class="name">Poesia Acústica #6 Era uma Vez</div>
+                                    <div class="artist">EMC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Pineapple StormTv</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Trem-Bala</div>
+                                    <div class="artist">Ana Vilela</div>
                                 </div>
                             </div>
                         </div>
