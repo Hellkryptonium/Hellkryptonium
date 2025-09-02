@@ -25,6 +25,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">Sofa, Breja e Netflix</div>
+                                    <div class="artist">EMac Júlia, Pejota</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">Resposta</div>
                                     <div class="artist">GUPE</div>
                                 </div>
@@ -32,43 +39,36 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dias Felizes</div>
-                                    <div class="artist">Felippe Lau</div>
+                                    <div class="name">Só me ligar</div>
+                                    <div class="artist">BK, Julia Mestre, Sango, Gigantes</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Could I Love You Any More (feat. Jason Mraz)</div>
-                                    <div class="artist">Reneé Dominique, Jason Mraz</div>
+                                    <div class="name">Amanhecer</div>
+                                    <div class="artist">BK, Nansy Silvvz, Gigantes</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Desejo</div>
-                                    <div class="artist">Julia Nogueira, MC Hariel</div>
+                                    <div class="name">Um amor puro</div>
+                                    <div class="artist">IZA, Maria Gadú</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Praia do Rosa - Acústico</div>
-                                    <div class="artist">Oriente, Cynthia Luz, Delacruz</div>
+                                    <div class="name">De Janeiro a Janeiro</div>
+                                    <div class="artist">Roberta Campos, Nando Reis</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">O Vagabundo e a Dama</div>
-                                    <div class="artist">Oriente</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Saturn</div>
-                                    <div class="artist">Sleeping At Last</div>
+                                    <div class="name">LEAL</div>
+                                    <div class="artist">EDjonga, Coyote Beatz, Rapaz do Dread</div>
                                 </div>
                             </div>
                         </div>
