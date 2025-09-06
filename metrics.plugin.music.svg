@@ -25,43 +25,36 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Trevo (Tu)</div>
-                                    <div class="artist">ANAVITÓRIA, TIAGO IORC</div>
+                                    <div class="name">Singular</div>
+                                    <div class="artist">ANAVITÓRIA</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">De Love</div>
-                                    <div class="artist">1Kilo</div>
+                                    <div class="name">Ela Só Quer Paz</div>
+                                    <div class="artist">Projota</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pontos de Exclamação</div>
-                                    <div class="artist">Jovem Dionisio</div>
+                                    <div class="name">Amor Livre - Ao Vivo</div>
+                                    <div class="artist">EFilipe Ret</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ainda Bem Que Chegou</div>
-                                    <div class="artist">Vitor Kley</div>
+                                    <div class="name">River</div>
+                                    <div class="artist">Leon Bridges</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fix You</div>
-                                    <div class="artist">Coldplay</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Superman (It's Not Easy)</div>
-                                    <div class="artist">Five For Fighting</div>
+                                    <div class="name">Amor de Fim de Noite</div>
+                                    <div class="artist">EOrochi, Papatinho</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -69,6 +62,13 @@
                                 <div class="infos">
                                     <div class="name">Deslocado</div>
                                     <div class="artist">NAPA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">No One Noticed</div>
+                                    <div class="artist">The Marías</div>
                                 </div>
                             </div>
                         </div>
