@@ -25,8 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Só Quero Ver</div>
-                                    <div class="artist">BK, Deekapz, Evinha</div>
+                                    <div class="name">Imprevisto</div>
+                                    <div class="artist">Yago Oproprio, Rô Rosa, Skeeter Beats</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sentimento - Ao vivo</div>
+                                    <div class="artist">O Rappa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Anunciação - Sessions</div>
+                                    <div class="artist">Mariana Nolasco</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -39,8 +53,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Farol Das Estrelas</div>
-                                    <div class="artist">MaLu</div>
+                                    <div class="name">Porque Eu Te Amo</div>
+                                    <div class="artist">ANAVITÓRIA</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -53,22 +67,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Poesia Acústica #3: Capricorniana</div>
-                                    <div class="artist">Pineapple StormTv, Choice, Lord ADL, Tiago Mac, Sant, Maria, Slim Beat, Salve Malak</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Nossa música</div>
-                                    <div class="artist">UM44K</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sonho</div>
-                                    <div class="artist">Atitude 67</div>
+                                    <div class="name">Oi</div>
+                                    <div class="artist">Lagum</div>
                                 </div>
                             </div>
                         </div>
