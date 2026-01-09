@@ -25,29 +25,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Trevo (Tu)</div>
-                                    <div class="artist">ANAVITÓRIA, TIAGO IORC</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Meu Abrigo</div>
+                                    <div class="name">Amores E Flores</div>
                                     <div class="artist">Melim</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">93 Million Miles</div>
-                                    <div class="artist">Jason Mraz</div>
+                                    <div class="name">Que Deus Me Livre - Acústico</div>
+                                    <div class="artist">Giannini Alencar</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Outra Vida</div>
-                                    <div class="artist">Armandinho</div>
+                                    <div class="name">Ai, Amor</div>
+                                    <div class="artist">ANAVITÓRIA</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -60,15 +53,22 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Medo Bobo</div>
-                                    <div class="artist">Rubel</div>
+                                    <div class="name">BOM TE ENCONTRAR</div>
+                                    <div class="artist">EBK, João Gomes, Nansy Silvvz, Gigantes</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Simples Assim</div>
-                                    <div class="artist">Pedro Pondé</div>
+                                    <div class="name">A Tal Canção Pra Lua - Microfonado</div>
+                                    <div class="artist">Vitor Kley, Samuel Rosa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Outra Vida</div>
+                                    <div class="artist">Armandinho</div>
                                 </div>
                             </div>
                         </div>
