@@ -25,36 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Serei Luz</div>
-                                    <div class="artist">Natiruts, Thiaguinho</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Desculpa Doutor</div>
-                                    <div class="artist">ESan Joe, Freitera</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Amor de Fim de Noite</div>
-                                    <div class="artist">EOrochi, Papatinho</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Beija Flor</div>
-                                    <div class="artist">João Gomes, Mestrinho, Jota.pê</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Vê Se Não Demora</div>
-                                    <div class="artist">ResenhaDaBlakk, Kiaz, Agnes Nunes, Nith, Dcan, BigJow</div>
+                                    <div class="name">Sonho</div>
+                                    <div class="artist">Atitude 67</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -67,8 +39,36 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">GOOD DAY</div>
-                                    <div class="artist">Mrs. GREEN APPLE</div>
+                                    <div class="name">Imprevisto</div>
+                                    <div class="artist">Yago Oproprio, Rô Rosa, Skeeter Beats</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Deixa (feat. Ana Gabriela)</div>
+                                    <div class="artist">Lagum, Ana Gabriela</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Amor de Fim de Noite</div>
+                                    <div class="artist">EOrochi, Papatinho</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Piloto</div>
+                                    <div class="artist">Flora Matos</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ai, Amor</div>
+                                    <div class="artist">ANAVITÓRIA</div>
                                 </div>
                             </div>
                         </div>
