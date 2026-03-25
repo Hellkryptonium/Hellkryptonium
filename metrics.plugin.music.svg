@@ -25,29 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Olhos Castanhos</div>
-                                    <div class="artist">Luísa Sonza</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Pequena Flor</div>
-                                    <div class="artist">Gabriel Elias</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Indomável (Participação especial de Belo)</div>
-                                    <div class="artist">Pk, Belo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Beija Flor</div>
-                                    <div class="artist">João Gomes, Mestrinho, Jota.pê</div>
+                                    <div class="name">So Easy (To Fall In Love)</div>
+                                    <div class="artist">Olivia Dean</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -60,15 +39,36 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tudo Me Lembra Você</div>
-                                    <div class="artist">Vitor Kley</div>
+                                    <div class="name">Ilusão</div>
+                                    <div class="artist">Filipe Ret, Dallass</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Por Você - Acústica</div>
-                                    <div class="artist">Barão Vermelho</div>
+                                    <div class="name">Quando Você Voltar</div>
+                                    <div class="artist">EGrito Filmes, Lourena, Morcego, WJ</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">A Gente Nunca Conversou (Ei Moça)</div>
+                                    <div class="artist">Lagum</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Geleira do tempo</div>
+                                    <div class="artist">ANAVITÓRIA, Jorge &amp; Mateus</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Oração</div>
+                                    <div class="artist">A Banda Mais Bonita da Cidade</div>
                                 </div>
                             </div>
                         </div>
