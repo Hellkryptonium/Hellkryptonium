@@ -1,7 +1,7 @@
 ![Welcome Banner](public/assets/image/Banner.jpeg)
 # 💫 About Me, I'm Mohd Harish:
 👋 Hey there!<br>
-I'm a 2nd-year B.Tech Computer Science student at Galgotias University.
+I'm a 3rd-year B.Tech Computer Science student at Galgotias University.
 <br>
 
 🚀 I'm an aspiring Software Engineer with a passion for building impactful and innovative software projects.
@@ -18,7 +18,7 @@ I'm a 2nd-year B.Tech Computer Science student at Galgotias University.
 
 ## 🌐 Socials:
 
-<a href="https://www.mohdharish.xyz">
+<a href="https://mohd-harish-portfolio.vercel.app">
   <img src="https://github.com/Hellkryptonium/MohdHarishPortfolio/raw/main/public/assets/images/fav-icon.png" alt="Portfolio" width="100" height="100" style="vertical-align:middle;"><h5>My Portfolio Webiste</h5></img>
 </a>  
 
