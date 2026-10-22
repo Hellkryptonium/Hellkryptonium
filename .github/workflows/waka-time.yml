@@ -1,6 +1,9 @@
+
 name: WakaTime
+
 on:
-  schedule: [{ cron: "0 * * * *" }] # every hour
+  schedule:
+    - cron: "0 * * * *"
   push:
     branches: ["main"]
   workflow_dispatch:
@@ -13,10 +16,13 @@ jobs:
         with:
           filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
+
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_days: 180
+
+          # Focus on recent work
+          plugin_wakatime_sections: time, projects, languages, editors, os
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
