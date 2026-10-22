@@ -1,48 +1,154 @@
-![Welcome Banner](public/assets/image/Banner.jpeg)
-# 💫 About Me, I'm Mohd Harish:
-👋 Hey there!<br>
-I'm a 3rd-year B.Tech Computer Science student at Galgotias University.
-<br>
-
-🚀 I'm an aspiring Software Engineer with a passion for building impactful and innovative software projects.
-<br>
-
-💻 Currently diving into Open Source contributions and continuously honing my development skills — one project at a time.
-<br>
+# Mohd Harish
 
 <p align="center">
-  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="400"/>
-  &nbsp;&nbsp;
-  <img src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="400"/>
+  <img src="public/assets/image/Banner.jpeg" alt="Mohd Harish" width="100%" />
 </p>
 
-## 🌐 Socials:
+<p align="center">
+  <a href="https://mohd-harish-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/mohd-harish-126a58256">LinkedIn</a> ·
+  <a href="https://x.com/HarishJ04335767">X</a> ·
+  <a href="mailto:harishjs1006@gmail.com">Email</a>
+</p>
 
-<a href="https://mohd-harish-portfolio.vercel.app">
-  <img src="https://github.com/Hellkryptonium/MohdHarishPortfolio/raw/main/public/assets/images/fav-icon.png" alt="Portfolio" width="100" height="100" style="vertical-align:middle;"><h5>My Portfolio Webiste</h5></img>
-</a>  
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.harish.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harish999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-harish-126a58256) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/HellKrypton) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarishJ04335767) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishjs1006@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hellkryptonium&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hellkryptonium&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellkryptonium&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hellkryptonium&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hellkryptonium&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <strong>Software Engineering · Distributed Systems · AI Infrastructure · Open Source</strong>
+</p>
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=hellkryptonium&label=Visitors&color=0e75b6&style=for-the-badge)
 
-### ⏰ My WakaTime stats
-![WakaTime Stats](metrics.plugin.wakatime.svg)
+## 👨‍💻 About Me
 
+Computer Science student at Galgotias University, graduating in 2028.
+
+- 🚀 Building **Horizon AI Runtime** — distributed AI inference across heterogeneous machines.
+- 🛡️ Developing **ThreatTrace** — AI-powered email threat detection and forensic intelligence.
+- 🔓 Contributing to open source and exploring systems engineering.
+- 👨‍🏫 Mentoring 100+ students through the Galgotias Web Development Club.
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Horizon AI Runtime</h3>
+      A distributed AI compute platform with resource-aware scheduling and remote inference.
+      <br/><br/>
+      <sub>TypeScript · Node.js · PostgreSQL · Ollama · WebSockets</sub>
+      <br/><br/>
+      <a href="https://github.com/Hellkryptonium/horizon-ai-runtime">Repository</a> ·
+      <a href="https://horizonruntimeai.tech">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ ThreatTrace</h3>
+      An email threat analysis platform combining phishing detection, malware scanning, and threat intelligence.
+      <br/><br/>
+      <sub>Next.js · TypeScript · BERT · ClamAV · Google Cloud</sub>
+      <br/><br/>
+      <a href="https://github.com/Hellkryptonium/ThreatTrace">Repository</a> ·
+      <a href="http://threattrace.me/">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+## 🔓 Open Source
+
+- **CodeYourFuture** — merged documentation contribution using Mermaid diagrams.
+- **Spack** — exploring package management and dependency CLI improvements.
+
+[Repositories](https://github.com/Hellkryptonium?tab=repositories) · [Contributions](https://github.com/Hellkryptonium?tab=contributions)
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-89A7FF?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-7198FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F5D76E?style=flat-square&logo=javascript&logoColor=242938" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-82B4FF?style=flat-square&logo=python&logoColor=242938" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-EBA66A?style=flat-square&logo=openjdk&logoColor=242938" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Rust-D9B59A?style=flat-square&logo=rust&logoColor=242938" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-B5BBD4?style=flat-square&logo=solidity&logoColor=242938" alt="Solidity" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-76D9ED?style=flat-square&logo=react&logoColor=242938" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-C5CAD5?style=flat-square&logo=nextdotjs&logoColor=242938" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-86C99A?style=flat-square&logo=nodedotjs&logoColor=242938" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-91B8EA?style=flat-square&logo=postgresql&logoColor=242938" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-E99B9B?style=flat-square&logo=redis&logoColor=242938" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-86C99A?style=flat-square&logo=mongodb&logoColor=242938" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-82C4FF?style=flat-square&logo=docker&logoColor=242938" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-9CB9FF?style=flat-square&logo=googlecloud&logoColor=242938" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-E8BB83?style=flat-square&logo=amazonwebservices&logoColor=242938" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 Developer Activity
+
+### 🗓️ Contribution Calendar
+
+<p align="center">
+  <img src="metrics.plugin.isocalendar.svg" alt="Isometric GitHub contribution calendar" width="420" />
+</p>
+
+### 🧩 LeetCode
+
+<p align="center">
+  <img src="metrics.plugin.leetcode.svg" alt="GitHub Actions-generated LeetCode metrics" width="700" />
+</p>
+
+### ⏱️ WakaTime
+
+<p align="center">
+  <img src="metrics.plugin.wakatime.svg" alt="GitHub Actions-generated WakaTime statistics" width="700" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hellkryptonium&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellkryptonium&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Most used programming languages" height="165" />
+</p>
+
+
+
+
+
+---
+
+## ✍️ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Hellkryptonium">
+    <img src="https://img.shields.io/badge/GitHub-Hellkryptonium-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mohd-harish-126a58256">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harishjs1006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hellkryptonium&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitors" />
+</p>
+
+<p align="center">
+  <sub>Always building. Always learning.</sub>
+</p>
