@@ -51,13 +51,6 @@ Computer Science student at Galgotias University, graduating in 2028.
   </tr>
 </table>
 
-## 🔓 Open Source
-
-- **CodeYourFuture** — merged documentation contribution using Mermaid diagrams.
-- **Spack** — exploring package management and dependency CLI improvements.
-
-[Repositories](https://github.com/Hellkryptonium?tab=repositories) · [Contributions](https://github.com/Hellkryptonium?tab=contributions)
-
 ---
 
 ## 🧰 Tech Stack
